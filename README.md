@@ -24,10 +24,10 @@
 
 <br>
 
-- Jiang-Conrath
-- Leacock-Chodorow
-- Shortest path
-- Wu-Palmer
+- [Jiang-Conrath](https://www.gabormelli.com/RKB/Jiang-Conrath_Similarity_Measure)
+- [Leacock-Chodorow](http://www.gabormelli.com/RKB/Leacock_Chodorow_Similarity_Measure)
+- [Shortest path](https://en.wikipedia.org/wiki/Shortest_path_problem)
+- [Wu-Palmer](https://www.gabormelli.com/RKB/Wu-Palmer_Similarity_Measure)
 <br><br>
 
 
