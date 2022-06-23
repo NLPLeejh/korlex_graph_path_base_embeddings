@@ -19,3 +19,28 @@
 |단어 수|113,082|22,559|23,611|3,699|1,611|164,562|
 
 <br><br>
+
+## <b>거리 측정 방식</b> 
+
+<br>
+
+- Jiang-Conrath
+- Leacock-Chodorow
+- Shortest path
+- Wu-Palmer
+<br><br>
+
+
+## <b>학습 코드</b> 
+
+<br>
+
+- 본 연구는 [Making Fast Graph-based Algorithms with Graph Metric Embeddings](https://aclanthology.org/P19-1325/)의 워드넷 학습 코드를 기반으로 한국어 어휘의미망에 적용을 하였습니다. 
+<br><br>
+
+## <b>한국어 적용 포멧</b> 
+
+<br>
+
+- 본 
+<br><br>
