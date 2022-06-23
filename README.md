@@ -35,7 +35,7 @@
 
 <br>
 
-- 본 연구는 [Making Fast Graph-based Algorithms with Graph Metric Embeddings](https://aclanthology.org/P19-1325/)의 워드넷 학습 코드를 기반으로 한국어 어휘의미망에 적용을 하였습니다. 
+- 본 연구는 [Making Fast Graph-based Algorithms with Graph Metric Embeddings](https://aclanthology.org/P19-1325/)의 워드넷 학습 코드를 기반으로 한국어 어휘의미망에 적용을 하였습니다. (https://github.com/uhh-lt/path2vec)
 <br><br>
 
 ## <b>한국어 적용 포멧</b> 
