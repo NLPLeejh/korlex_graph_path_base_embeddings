@@ -1,4 +1,4 @@
-# 한국어 어휘의미망(alias. Korlex)의 거리 기반 그래프 임베딩 (http://korlex.pusan.ac.kr/)
+# 한국어 어휘의미망의 거리 기반 그래프 임베딩 모형 (alias. Korlex, http://korlex.pusan.ac.kr/)
 
 <br>
 
