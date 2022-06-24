@@ -54,7 +54,7 @@
 
 <br><br>
 
-## <b>문서 배포 정보</b>
+## <b>모형 배포 정보</b>
 
 <br>
 
@@ -64,5 +64,18 @@
 |[Leacock-Chodorow 기반 모형](http://pnuailab.synology.me:5000/sharing/pMtc5Iufv)|768 vector, 0.001 learning rate, 3 neighbors count|
 |[Shortest path 기반 모형](http://pnuailab.synology.me:5000/sharing/iLIZJ80eI)|768 vector, 0.001 learning rate, 3 neighbors count|
 |[Wu-Palmer 기반 모형](http://pnuailab.synology.me:5000/sharing/iLIZJ80eI)|768 vector, 0.001 learning rate, 3 neighbors count|
+
+<br><br>
+
+# <b>학습 모형 유사도 및 단어 분별 성능</b>
+
+<br>
+
+|시스템 명|Korlex|고정 의미 성능|유동 의미 성능|
+|:--:|--:|--:|--:|
+|Jiang-Conrath 기반 모형|86%|40%||
+|Leacock-Chodorow 기반 모형|82%|27%||
+|Shortest path 기반 모형|50%|61%||
+|Wu-Palmer 기반 모형|50%|61%||
 
 <br><br>
