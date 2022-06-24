@@ -38,7 +38,7 @@
 - 본 연구는 [Making Fast Graph-based Algorithms with Graph Metric Embeddings](https://aclanthology.org/P19-1325/)의 워드넷 학습 코드를 기반으로 한국어 어휘의미망에 적용을 하였습니다. (https://github.com/uhh-lt/path2vec)
 <br><br>
 
-## <b>한국어 적용 혁식</b> 
+## <b>한국어 적용 형식</b> 
 
 <br>
 
@@ -54,6 +54,15 @@
 
 <br><br>
 
-## <b>학습 성능</b> 
+## <b>문서 배포 정보</b>
 
 <br>
+
+|배포 파일명|설명|
+|:--:|--|
+|[Jiang-Conrath 기반 모형](http://pnuailab.synology.me:5000/sharing/xpnQTAq40)|768 vector, 0.001 learning rate, 3 neighbors count|
+|[Leacock-Chodorow 기반 모형](http://pnuailab.synology.me:5000/sharing/pMtc5Iufv)|768 vector, 0.001 learning rate, 3 neighbors count|
+|[Shortest path 기반 모형](http://pnuailab.synology.me:5000/sharing/iLIZJ80eI)|768 vector, 0.001 learning rate, 3 neighbors count|
+|[Wu-Palmer 기반 모형](http://pnuailab.synology.me:5000/sharing/iLIZJ80eI)|768 vector, 0.001 learning rate, 3 neighbors count|
+
+<br><br>
