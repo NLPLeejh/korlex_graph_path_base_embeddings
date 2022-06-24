@@ -60,10 +60,10 @@
 
 |배포 파일명|설명|
 |:--:|--|
-|[Jiang-Conrath 기반 모형](http://pnuailab.synology.me:5000/sharing/xpnQTAq40)|768 vector, 0.001 learning rate, 3 neighbors count|
-|[Leacock-Chodorow 기반 모형](http://pnuailab.synology.me:5000/sharing/pMtc5Iufv)|768 vector, 0.001 learning rate, 3 neighbors count|
-|[Shortest path 기반 모형](http://pnuailab.synology.me:5000/sharing/iLIZJ80eI)|768 vector, 0.001 learning rate, 3 neighbors count|
-|[Wu-Palmer 기반 모형](http://pnuailab.synology.me:5000/sharing/iLIZJ80eI)|768 vector, 0.001 learning rate, 3 neighbors count|
+|[Jiang-Conrath 기반 모형](http://pnuailab.synology.me:5000/sharing/Q1dI3L6xl)|768 vector, 0.001 learning rate, 3 neighbors count|
+|[Leacock-Chodorow 기반 모형](http://pnuailab.synology.me:5000/sharing/a762Ewqxo)|768 vector, 0.001 learning rate, 3 neighbors count|
+|[Shortest path 기반 모형](http://pnuailab.synology.me:5000/sharing/MEwYg4S6b)|768 vector, 0.001 learning rate, 3 neighbors count|
+|[Wu-Palmer 기반 모형](http://pnuailab.synology.me:5000/sharing/zvsBG7HwB)|768 vector, 0.001 learning rate, 3 neighbors count|
 
 <br><br>
 
