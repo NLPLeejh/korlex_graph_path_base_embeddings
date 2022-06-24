@@ -73,9 +73,9 @@
 
 |시스템 명|Korlex|고정 의미 성능<br>(static)|유동 의미 성능<br>(dynamic)|
 |:--:|:--:|:--:|:--:|
-|Jiang-Conrath 기반 모형|86%|40%||
-|Leacock-Chodorow 기반 모형|82%|27%||
-|Shortest path 기반 모형|50%|61%||
-|Wu-Palmer 기반 모형|50%|61%||
+|Jiang-Conrath 기반 모형|86.48%%|44.23%%|26.27%|
+|Leacock-Chodorow 기반 모형|82.36%|46.02%|28.86%|
+|Shortest path 기반 모형|85.33%|46.70%|28.83%|
+|Wu-Palmer 기반 모형|79.48%%|44.05%%|29.76%|
 
 <br><br>
